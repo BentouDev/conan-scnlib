@@ -1,2 +1,2 @@
 # conan-scnlib
-Conan repository for scnlib
+Conan package recipe for scnlib
